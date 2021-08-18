@@ -1,4 +1,4 @@
-Feature: Create Users
+Feature: Create Suscriptions
   This service allows to the client and
   create his users in SmartPyme MainSite
   across name, email and cellphone
