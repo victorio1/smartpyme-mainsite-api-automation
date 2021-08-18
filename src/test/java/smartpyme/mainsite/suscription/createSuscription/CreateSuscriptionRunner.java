@@ -1,11 +1,11 @@
-package smartpyme.mainsite.suscription;
+package smartpyme.mainsite.suscription.createSuscription;
 
 import com.intuit.karate.KarateOptions;
 import com.intuit.karate.junit4.Karate;
 import org.junit.runner.RunWith;
 
 @RunWith(Karate.class)
-@KarateOptions(features = "classpath:smartpyme/mainsite/suscription/createSuscription.feature")
+@KarateOptions(features = "classpath:smartpyme/mainsite/suscription/createSuscription/createSuscription.feature")
 public class CreateSuscriptionRunner {
 
 }
