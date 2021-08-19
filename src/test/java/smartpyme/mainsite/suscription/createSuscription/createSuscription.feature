@@ -7,6 +7,7 @@ Feature: Create Suscriptions
     * url baseUrlMainSite
     * header Content-Type = 'application/json'
 
+    #Xddd
     Scenario Outline: Verify Create Suscription Passed
       Given path '/api/subscribers'
       And request
