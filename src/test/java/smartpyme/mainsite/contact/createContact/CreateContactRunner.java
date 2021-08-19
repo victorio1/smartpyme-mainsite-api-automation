@@ -1,4 +1,4 @@
-package smartpyme.mainsite.contact;
+package smartpyme.mainsite.contact.createContact;
 
 import com.intuit.karate.KarateOptions;
 import com.intuit.karate.junit4.Karate;
