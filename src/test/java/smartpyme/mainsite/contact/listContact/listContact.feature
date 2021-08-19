@@ -17,3 +17,6 @@ Feature: List Contact
       And match response.result.fullName == FullNameResponse
       And match response.result.phone == PhoneResponse
       And match response.result.email == EmailResponse
+    And match response.result.fullName == "#string"
+    And match response.result.phone == "#string"
+    And match response.result.email == "#string"
