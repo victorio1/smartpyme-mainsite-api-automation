@@ -6,5 +6,5 @@ import org.junit.runner.RunWith;
 
 @RunWith(Karate.class)
 @KarateOptions(features = "classpath:smartpyme/mainsite/template/deleteTemplate/deleteTemplate.feature")
-public class deleteTemplate {
+public class deleteTemplateRunner {
 }

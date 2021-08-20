@@ -6,5 +6,5 @@ import org.junit.runner.RunWith;
 
 @RunWith(Karate.class)
 @KarateOptions(features = "classpath:smartpyme/mainsite/template/updateTemplate/updateTemplate.feature")
-public class updateTemplate {
+public class updateTemplateRunner {
 }

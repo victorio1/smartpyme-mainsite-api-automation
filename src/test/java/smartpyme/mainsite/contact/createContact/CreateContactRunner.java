@@ -5,6 +5,6 @@ import com.intuit.karate.junit4.Karate;
 import org.junit.runner.RunWith;
 
 @RunWith(Karate.class)
-@KarateOptions(features = "classpath:smartpyme/mainsite/contact/createContact.feature")
+@KarateOptions(features = "classpath:smartpyme/mainsite/contact/createContact/createContact.feature")
 public class CreateContactRunner {
 }

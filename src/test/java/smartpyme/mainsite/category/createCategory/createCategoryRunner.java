@@ -5,7 +5,7 @@ import com.intuit.karate.junit4.Karate;
 import org.junit.runner.RunWith;
 
 @RunWith(Karate.class)
-@KarateOptions(features = "classpath:smartpyme/mainsite/category/createCategory.feature")
+@KarateOptions(features = "classpath:smartpyme/mainsite/category/createCategory/createCategory.feature")
 public class createCategoryRunner {
 
 }
