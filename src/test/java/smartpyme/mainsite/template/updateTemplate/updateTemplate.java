@@ -1,0 +1,10 @@
+package smartpyme.mainsite.template.updateTemplate;
+
+import com.intuit.karate.KarateOptions;
+import com.intuit.karate.junit4.Karate;
+import org.junit.runner.RunWith;
+
+@RunWith(Karate.class)
+@KarateOptions(features = "classpath:smartpyme/mainsite/template/updateTemplate/updateTemplate.feature")
+public class updateTemplate {
+}
