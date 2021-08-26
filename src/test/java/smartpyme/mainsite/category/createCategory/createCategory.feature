@@ -24,5 +24,4 @@ Feature: Create Category
     And match response.result.Description == "#string"
 
     Examples:
-      |read('createCategory-data.csv')|
-
+    |read('createCategory-data.csv')|
